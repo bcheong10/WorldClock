@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/all_assets">
+        <file>assets/singapore.png</file>
+        <file>assets/canada.png</file>
+        <file>assets/japan.png</file>
+        <file>assets/malaysia.png</file>
+        <file>assets/united-kingdom.png</file>
+    </qresource>
+</RCC>
